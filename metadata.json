@@ -1,0 +1,7 @@
+{
+  "name": "PolyGlot Meeting Translator",
+  "description": "Semi-duplex real-time translator between Swedish and selectable languages using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
