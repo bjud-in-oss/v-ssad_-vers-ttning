@@ -1,5 +1,5 @@
 {
-  "name": "PolyGlot Meeting Translator",
+  "name": "PolyGlot Meeting Translator, utby.netlify.app",
   "description": "Semi-duplex real-time translator between Swedish and selectable languages using Gemini Live API.",
   "requestFramePermissions": [
     "microphone"
